@@ -1,5 +1,5 @@
 let handler = (t) => {
-    t.reply('buka youtube terus ketik *ZaBot Official*')
+    t.reply('buka browser terus ketik *https://github.com/Nekorey*')
 }
 
 handler.command = ['sc']
